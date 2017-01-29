@@ -82,12 +82,12 @@
 						
 						<div class="form-group">
 							<label>B1) Höchster Schulabschluss</label>
-							<input type="text" name="data[school]" class="form-control" placeholder="z.B. Qualifizierter Hauptschulabschluss oder Bachelor of Science">
+							<input type="text" name="data[school]" class="form-control" placeholder="z.B. Qualifizierter Hauptschulabschluss oder Abitur">
 						</div>
 						
 						<div class="form-group">
 							<label>B2) Berufsabschluss</label>
-							<input type="text" name="data[education]" class="form-control" placeholder="z.B. Mechatroniker">
+							<input type="text" name="data[education]" class="form-control" placeholder="z.B. Mechatroniker oder Bachelor of Science">
 						</div>
 						
 						<div class="form-group">
@@ -97,7 +97,7 @@
 						
 						<h1>Nutzungsverhalten im Internet</h1>
 						
-						<label>C1) Wie häufig nutzen Sie das Internet in der Woche?</label>
+						<label>C1) Wie häufig nutzen Sie das Internet pro Woche?</label>
 						<div class="form-group">
 							<label class="radio-inline">
 								<input type="radio" name="data[webusagetime]" id="inlineRadio1" value="unsteady"> unregelmäßig
@@ -105,7 +105,7 @@
 						</div>
 						<div class="form-group">
 							<label class="radio-inline">
-								<input type="radio" name="data[webusagetime]" id="inlineRadio1" value="1d-2d"> an 1-2 Tagen in der Woche
+								<input type="radio" name="data[webusagetime]" id="inlineRadio1" value="1d-2d"> an 1 - 2 Tagen in der Woche
 							</label>
 						</div>
 						<div class="form-group">
@@ -130,7 +130,7 @@
 						</div>
 						
 			
-						<label>C2) In welchem Bereich nutzen die das Internet überwiegend?</label>
+						<label>C2) In welchem Bereich nutzen Sie das Internet überwiegend?</label>
 						<div class="form-group">
 							<label class="radio-inline">
 								<input type="radio" name="data[webusagearea]" id="inlineRadio1" value="privat"> privat
@@ -148,7 +148,7 @@
 						</div>
 						
 						<div class="form-group">
-							<label>C3) Welche 3 Webseiten (ohne Suchmaschinen wie z.B. Google.de oder Bing.de) verwenden Sie am häufigsten?</label>
+							<label>C3) Welche drei Webseiten (ohne Suchmaschinen wie z.B. Google.de oder Bing.de) verwenden Sie am häufigsten?</label>
 							<input type="text" name="data[webusagewebsites]" class="form-control" placeholder="z.B. wikipedia.de, tu-darmstadt.de und heise.de">
 						</div>
 						

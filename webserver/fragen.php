@@ -28,6 +28,6 @@ Wie bezeichnet man das Verfahren zur Aufteilung von Restplätzen bei einer Wahl 
 *Welche der folgenden Ratsmitglieder sind in der Legislaturperiode 2011-2016 mit dem Gesetz in Konflikt geraten?	Pedro Benjamin Becerra	Henning Suhrkamp	Axel Jahnz	Eva Sassen	Werner Lindemann
 Bei welchem Wahlkampf wurde der Wahlslogen der CDU "Keine Experimente!" bereits schon einmal von der CDU verwendet?	Bundestagswahl 1957	Kreistagswahl in Delmenhorst 1977	Landtagswahl in Niedersachsen 1963	Bundestagswahl 1976	Landtagswahl in Niedersachsen 2003
 Mit welchem Fahrzeug erschien der Chef der Jungen Union bei der Veranstaltung zum Wahlkampfstart?	Elektroauto	Traktor	Autonomes Auto	Fahrrad	Mercedes
-Ab welchem Alter ist man für die Wahl des Seniorenbeirates Wahlberechtigt?	55	60	63	65	66'
+Ab welchem Alter ist man für die Wahl des Seniorenbeirates wahlberechtigt?	55	60	63	65	66'
 );
 ?>
