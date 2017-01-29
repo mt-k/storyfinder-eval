@@ -1,0 +1,27 @@
+{
+  "title": "Storyfinder Evaluation",
+  "name": "storyfinderevaluation",
+  "version": "0.0.1",
+  "description": "Track user behavior for evaluation",
+  "main": "index.js",
+  "author": "Manuel Kaufmann",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "preferences": [
+    {
+      "name": "server",
+      "title": "Server URL",
+      "description": "URL of the log server",
+      "type": "string",
+      "value": "http://127.0.0.1"
+    },
+    {
+      "name": "user",
+      "title": "User ID",
+      "description": "ID of the User",
+      "type": "string",
+      "value": "1-1"
+    }]
+}
